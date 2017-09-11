@@ -3,7 +3,9 @@
 ## Details
 
 Hunter Jones
+
 Lab #1
+
 COSC 2030 Lab Section 10A
 
 ## Outside help
